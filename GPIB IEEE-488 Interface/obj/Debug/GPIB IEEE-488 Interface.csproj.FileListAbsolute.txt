@@ -1,0 +1,17 @@
+c:\users\jared\documents\visual studio 2013\Projects\GPIB IEEE-488 Interface\GPIB IEEE-488 Interface\bin\Debug\GPIB IEEE-488 Interface.exe.config
+C:\Users\Jared\Documents\Visual Studio 2013\Projects\GPIB IEEE-488 Interface\GPIB IEEE-488 Interface\obj\Debug\GPIB IEEE-488 Interface.csprojResolveAssemblyReference.cache
+C:\Users\Jared\Documents\Visual Studio 2013\Projects\GPIB IEEE-488 Interface\GPIB IEEE-488 Interface\obj\Debug\MainWindow.baml
+C:\Users\Jared\Documents\Visual Studio 2013\Projects\GPIB IEEE-488 Interface\GPIB IEEE-488 Interface\obj\Debug\MainWindow.g.cs
+C:\Users\Jared\Documents\Visual Studio 2013\Projects\GPIB IEEE-488 Interface\GPIB IEEE-488 Interface\obj\Debug\App.g.cs
+C:\Users\Jared\Documents\Visual Studio 2013\Projects\GPIB IEEE-488 Interface\GPIB IEEE-488 Interface\obj\Debug\GPIB IEEE-488 Interface_MarkupCompile.cache
+C:\Users\Jared\Documents\Visual Studio 2013\Projects\GPIB IEEE-488 Interface\GPIB IEEE-488 Interface\obj\Debug\GPIB IEEE-488 Interface.g.resources
+C:\Users\Jared\Documents\Visual Studio 2013\Projects\GPIB IEEE-488 Interface\GPIB IEEE-488 Interface\obj\Debug\GPIB_IEEE_488_Interface.Properties.Resources.resources
+C:\Users\Jared\Documents\Visual Studio 2013\Projects\GPIB IEEE-488 Interface\GPIB IEEE-488 Interface\obj\Debug\GPIB IEEE-488 Interface.csproj.GenerateResource.Cache
+C:\Users\Jared\Documents\Visual Studio 2013\Projects\GPIB IEEE-488 Interface\GPIB IEEE-488 Interface\bin\Debug\GPIB IEEE-488 Interface.exe
+C:\Users\Jared\Documents\Visual Studio 2013\Projects\GPIB IEEE-488 Interface\GPIB IEEE-488 Interface\bin\Debug\GPIB IEEE-488 Interface.pdb
+C:\Users\Jared\Documents\Visual Studio 2013\Projects\GPIB IEEE-488 Interface\GPIB IEEE-488 Interface\bin\Debug\NationalInstruments.Common.dll
+C:\Users\Jared\Documents\Visual Studio 2013\Projects\GPIB IEEE-488 Interface\GPIB IEEE-488 Interface\bin\Debug\NationalInstruments.DAQmx.dll
+C:\Users\Jared\Documents\Visual Studio 2013\Projects\GPIB IEEE-488 Interface\GPIB IEEE-488 Interface\bin\Debug\NationalInstruments.Common.xml
+C:\Users\Jared\Documents\Visual Studio 2013\Projects\GPIB IEEE-488 Interface\GPIB IEEE-488 Interface\bin\Debug\NationalInstruments.DAQmx.xml
+C:\Users\Jared\Documents\Visual Studio 2013\Projects\GPIB IEEE-488 Interface\GPIB IEEE-488 Interface\obj\Debug\GPIB IEEE-488 Interface.exe
+C:\Users\Jared\Documents\Visual Studio 2013\Projects\GPIB IEEE-488 Interface\GPIB IEEE-488 Interface\obj\Debug\GPIB IEEE-488 Interface.pdb
